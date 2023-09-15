@@ -2,7 +2,7 @@
 title: "Fit-Data-Analysis"
 author: "Joonseop So"
 date: "2023-09-15"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
