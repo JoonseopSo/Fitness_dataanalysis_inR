@@ -35,7 +35,7 @@ dailyIntensities_merged <- read_csv("Fitness_dataset/dailyIntensities_merged.csv
 ### Note
 
 I also changed the name of some columns to make merging every dataset
-into 1 dataframe easier.
+into one dataframe easier.
 
 ## Merging the dataframe and adding weekdays
 
