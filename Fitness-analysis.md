@@ -164,7 +164,7 @@ ggplot(day_data , aes(x=ActivityDay, y=LightlyActiveMinutes.y , fill = factor(we
 
 ### Note
 
-As we can see some plots are missing or are incomplete. Thats an
+As we can see some plots are missing or are incomplete. That’s an
 indicator for not doing the exercise or error. The uncompleted plots are
 results of discontinuing the exercise. <br> I will remove the incomplete
 plots for better analysis
